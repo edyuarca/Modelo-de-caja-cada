@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Montserrat&family=Open+Sans&family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200&family=Noto+Sans&family=Nunito+Sans:opsz@6..12&family=Open+Sans&family=Pixelify+Sans&family=Raleway&family=Sometype+Mono&family=Young+Serif&display=swap');
+
+body {
+    background-color: #f7f7f7;
+}
+
+main{
+    width: 600px;
+    height: 900px;
+    border-radius: 100px;
+    background-color: #303130;
+    position: relative;
+}
+
+.fondo-imagen {
+    background-color: #a30000;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    width: 600px;
+    height: 300px;
+}
+
+.contenedor-imagen{
+    width: 250px;
+    height: 250px;
+    margin-left: 30%;
+    margin-top: 10px;
+    padding-top: 5px;
+}
+
+img {
+    object-fit: contain;
+    object-position: 50% 50%;
+    max-width: 100%;
+}
+
+
+h1 {
+    font-family: 'DM Serif Display', serif;
+    text-align: center;
+    font-size: 2.5rem;
+    color: #ffff;
+    padding: 20px 100px;
+    margin: 0;
+}
+
+.tags-container {
+    margin-left: 25%;
+}
+
+.tags{
+    font-size: 0.7rem;
+    color: #ffff;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin: 2.5px;
+    border: 1px solid rgb(203, 54, 54);
+    border-radius: 20px;
+} 
+
+h2{
+    font-family: 'DM Serif Display', serif;
+    font-size: 0.7rem;   
+    color: #ffff;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: #ffff;
+    padding: 0px 50px;
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+.precio{
+    font-size: 2rem;
+    margin: 0;
+}
+
+.boton-comprar {
+    width: 200px;
+    height: 40px;
+    background-color: #a30000;
+    border-radius: 20px;
+    margin-top: 35px;
+    margin-left: 33%;
+}
+
+.boton-comprar p{
+    padding-top: 10px;
+}

@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200&family=Noto+Sans&family=Nunito+Sans:opsz@6..12&family=Open+Sans&family=Pixelify+Sans&family=Raleway&family=Sometype+Mono&family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200&family=Noto+Sans&family=Nunito+Sans:opsz@6..12&family=Open+Sans&family=Pixelify+Sans&family=Raleway&family=Sometype+Mono&family=Young+Serif&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #EBE3FB;
+}
+
+main{
+    margin: 300px 800px;
+    width: 550px;
+    height: 450px;
+    background-color: #ffff;
+    border-radius: 20px;
+}
+
+h1{
+    font-family: 'Sometype Mono', monospace;
+    font-size: 1.2rem;
+    text-align: center;
+    padding: 80px 100px 50px 100px;
+}
+
+.precio {
+    font-family: 'Nunito Sans', sans-serif;
+    border: 1px solid #d5d3e2;
+    border-radius: 3px;
+    width: 70px;
+    height: 35px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 15px;
+    margin: 5px;
+}
+
+.botones{
+    margin-left: 100px;
+}
+
+#quince {
+    background-color: #7464F3;
+    color: #ffff;
+}
+
+.boton{
+    margin-left: 104px;
+    margin-top: 50px;
+    width: 330px;
+    height: 50px;
+    background-color: #7464F3;
+    font-family: 'Nunito Sans', sans-serif;
+    border-radius: 10px;
+
+}
+
+.boton p {
+    text-align: center;
+    color: #ffff;
+    font-size: 1rem;
+    padding-top: 15px;
+}

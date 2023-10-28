@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(223, 223, 223);
+}
+
+.primera-fila {
+    display: inline-block;
+}
+
+.segunda-fila {
+    display: inline-block;
+}
+
+.banderas {
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+}
+
+.amarillo {
+    background-color: #ffcd00;
+    height: 66.6px;
+}
+
+.azul{
+    background-color: #003087;
+    height: 66.6px;
+}
+
+.rojo {
+    background-color: #c8102e;
+    height: 66.6px;
+}
+
+.estrella {
+    display: inline-block;
+    background-color: #0032A0;
+    height: 100px;
+    width: 100px;
+    margin: 0;
+    padding: 0;
+}
+
+.escudo{
+    padding: 23px;
+    width: 50px;
+    height: 50px ;
+}
+
+.blanco {
+    display: inline-block   ;
+    background-color: #FFFFFF;
+    width: 200px;
+    height: 100px;
+    /*margin: -4px;*/
+    padding: 0;
+}
+
+.rojo-chile{
+    background-color: red;
+    width: 300px;
+    height: 100px;
+}
+
+.bandera-chile {
+    margin-left: 20px
+}
+
+.celeste {
+    background-color: #6CACE4;
+    height: 66.6px;
+}
+
+.blanca-arg{
+    background-color: white;
+    height: 66.6px  ;
+}
+
+.escudo-arg {
+    width: 50px;
+    height: 50px;
+    margin-left: 125px;
+    margin-top: 8px;
+}
+
+.azul-f{
+    background-color: #002654;
+    width: 100px;
+    height: 200px;
+    display: inline-block;
+}
+
+.blanco-f{
+    background-color: white;
+    width: 100px;
+    height: 200px;
+    display: inline-block;
+}
+
+.rojo-f{
+    background-color: #ED2939;
+    width: 100px;
+    height: 200px;
+    display: inline-block;
+}
+
+.rojo-e{
+    background-color: #AA151B;
+    height: 50px;;
+}
+
+.amarillo-e{
+    background-color: #F1BF00;
+    height: 100px;
+}
+
+.escudo-e {
+    width: 70px;
+    height: 70px;
+    margin-top: 12px;
+    margin-left: 30px;
+}
+
+.verde {
+    display: inline-block;
+    background-color: #006341;
+    width: 100px;
+    height: 200px;
+}
+
+.blanco-m{
+    display: inline-block;
+    background-color: #FFFFFF;
+    width: 100px;
+    height: 200px;
+}
+
+.rojo-m{
+    display: inline-block;
+    background-color: #C8102E;
+    width: 98px;
+    height: 200px;
+}

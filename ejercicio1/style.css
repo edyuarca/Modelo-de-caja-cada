@@ -1,0 +1,62 @@
+@import url('https://urldefense.com/v3/__https://fonts.googleapis.com/css2?family=Josefin*Sans:wght@200&family=Noto*Sans&family=Nunito*Sans:opsz@6..12&family=Pixelify*Sans&family=Raleway&family=Young*Serif&display=swap__;KysrKys!!P9vvK-4S!lHnoJp9Z7RUBFmQxTUT63wskgNHln-ZgL5HECue9q-GPX83Rz5iYTdIfpziuerp7mdXWnDPwnKsX69Rx7PWADy9pIyQ$ ');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+body {
+    background-color: #dcdcdc;
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+}
+
+h2 {
+    margin: 0 0 10px 50px;
+    font-size: 1.2rem;
+}
+
+.card {
+    width: 380px;
+    height: 335px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+
+.emoji {
+    width: 30px;
+    height: 30px;
+    margin: 50px 0 10px 50px; 
+}
+
+.parrafo1{
+    font-size: 0.9rem;
+    margin: 0 40px 10px 50px;
+}
+
+.parrafo2 {
+    font-size: 0.9rem;
+    margin: 0 0 0 50px;
+}
+
+span {
+    color: blue;
+}
+
+.boton {
+    width: 140px;
+    height: 40px;
+    background: linear-gradient(to right, #287acc, #70b7ff );
+    margin: 30px 0 20px 50px;
+    border-radius: 5px;
+}   
+
+.texto-boton{
+    color: white;
+    font-size: 0.9rem;
+    text-align: center;
+    padding-top: 10px;
+
+}
